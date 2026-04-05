@@ -1,2 +1,106 @@
 # Software-Horror-Movies
 Everybody knows them somehow...
+
+- I know what you committed last summer
+- Paranormalization Activity
+- Evil Deadlock
+- Night of the Living Thread
+- Planet Error
+- The Texas Chain of Responsibility Massacre 
+- Beetlejson
+- Five Commits at Freddy‘s
+- 28 Versions later
+- Stephen Kings IT
+- Doctor Strange and the multiple inheritance of madness 
+- The Entity
+- From Five Till Nine
+- Brain Dead User
+- Bit Sematary
+- The Merge
+- American Sudo
+- Instantious
+- The Visit Pattern 
+- 30 Days of Light
+- Hellboy - Method Call of Darkness 
+- CONSTANTine
+- Drag me to Hello World 
+- Exceptionraiser
+- Day of the Deadlock 
+- Jack in the Docker Container 
+- Resident Entity 
+- The Constructuring
+- The Girl with all the Gists
+- Fin-Ack Destination 
+- A Quiet Class
+- Halloworld
+- Review with the Vampire 
+- A Nightmare on Alm Street
+- Stream
+- Children of the .NET Core
+- Pojo 
+- The Devil’s Resets
+- Predatar
+- Army of Users
+- Black Hat Christmas 
+- Int
+- One Missed Function Call
+- Intland of the Dead
+- The Lost Bots
+- Childclasses‘ Play
+- Dead Instance
+- Valentinteger
+- The Stepoverfather 
+- Silint Hill
+- The String
+- Event-driven Horizon 
+- IT Comes at Night 
+- Ghost Repositories
+- The Blair Pitch Project 
+- Christuintine
+- Polterclass
+- XPathology
+- Ready or Not Not
+- Cold Storage
+- Do Not Hit Enter
+- The Menu
+- Nosferatool
+- Clean Room
+- Late Night with the Deployment
+- Heredictionary
+- Verified
+- The Mistake
+- The XORcist
+- Jacob's Linter
+- Jenkins Creepers
+- The Aligning
+- Sudo 
+- Deploy Night
+- The Null Zone
+- Deployment of the Dead
+- The Humanager Centipede
+- Bug
+- The Wicker Manager
+- The Modem
+- The Mapping in the Woods
+- The Killing of a Sacred Peer
+- Your Next Pointer
+- World Var Z
+- Mainiac
+- Grave Counters
+- The Pitch
+- AI-lien
+- The Uninvented
+- The Hills Have AIs
+- Candymanager
+- I Saw the Developer
+- Thread Silence
+- The Midnight Meeting Train
+- The Mothmanager Prophecies
+- The Exorcism of ALM DOORS
+- The Brainfog
+- The Devil's Merge Request Rejects
+- Army of Dumbness
+- When a Manager Calls
+- Leaky Hollow
+- The Releasing
+- The Class That Jack Built
