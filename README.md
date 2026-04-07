@@ -14,7 +14,7 @@ Everybody knows them somehow...
 - Doctor Strange and the multiple inheritance of madness 
 - The Entity
 - From Five Till Nine
-- Brain Dead User
+- Braindead User
 - Bit Sematary
 - The Merge
 - American Sudo
