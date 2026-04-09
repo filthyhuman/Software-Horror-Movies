@@ -79,7 +79,7 @@ Mappings to the originals, for the not so obvious ones.
 | Deploy Night | Fright Night |
 | The Null Zone | The Dead Zone |
 | Deployment of the Dead | Dawn of the Dead |
-| The Humanager Centipede | The Humanager Centipede |
+| The Humanager Centipede | The Human Centipede |
 | Bug | Bug |
 | The Wicker Manager | The Wicker Man |
 | The Modem | The Omen |
